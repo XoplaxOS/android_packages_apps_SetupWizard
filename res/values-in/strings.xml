@@ -20,22 +20,22 @@
   <string name="next">Berikutnya</string>
   <string name="skip">Lewati</string>
   <string name="start">Mulai</string>
-  <string name="ok">OKE</string>
-  <string name="loading">Hanya sec\u2026</string>
-  <string name="setup_complete">Setup selesai</string>
+  <string name="ok">Oke</string>
+  <string name="loading">Tunggu sebentar\u2026</string>
+  <string name="setup_complete">Persiapan selesai</string>
   <string name="setup_welcome">Selamat datang</string>
   <string name="setup_wifi">Pilih Wi-Fi</string>
-  <string name="setup_sim_missing">SIM kartu hilang</string>
+  <string name="setup_sim_missing">SIM kartu tidak ditemukan</string>
   <string name="setup_choose_data_sim">Pilih SIM untuk Data</string>
   <string name="setup_location">Layanan lokasi</string>
   <string name="setup_other">Layanan lainnya</string>
   <string name="setup_datetime">Tanggal &amp; waktu</string>
-  <string name="setup_current_date">Tanggal sekarang</string>
+  <string name="setup_current_date">Tanggal saat ini</string>
   <string name="setup_current_time">Waktu saat ini</string>
-  <string name="sim_missing_summary" product="tablet">Kartu SIM tidak terdeteksi pada perangkat anda.  Untuk menyisipkan kartu SIM, baca petunjuk yang datang dengan perangkat Anda.</string>
-  <string name="sim_missing_summary" product="default">Kartu SIM tidak terdeteksi pada perangkat anda.  Untuk menyisipkan kartu SIM, baca petunjuk yang datang dengan perangkat Anda.</string>
-  <string name="choose_data_sim_summary" product="tablet">Manakah SIM yang ingin Anda gunakan untuk data? SIM yang dipilih dapat dikenakan biaya jaringan karena akan digunakan untuk menyiapkan perangkat Anda.</string>
-  <string name="choose_data_sim_summary" product="default">Manakah SIM yang ingin Anda gunakan untuk data? SIM yang dipilih dapat dikenakan biaya jaringan karena akan digunakan untuk menyiapkan perangkat Anda.</string>
+  <string name="sim_missing_summary" product="tablet">Kartu SIM tidak terdeteksi pada tablet anda.  Untuk memasukkan kartu SIM, baca petunjuk yang diberikan dengan tablet Anda.</string>
+  <string name="sim_missing_summary" product="default">Kartu SIM tidak terdeteksi pada ponsel anda.  Untuk memasukkan kartu SIM, baca petunjuk yang diberikan dengan ponsel Anda.</string>
+  <string name="choose_data_sim_summary" product="tablet">Manakah SIM yang ingin Anda gunakan untuk data? SIM yang dipilih dapat dikenakan biaya internet karena akan digunakan untuk menyiapkan perangkat Anda.</string>
+  <string name="choose_data_sim_summary" product="default">Manakah SIM yang ingin Anda gunakan untuk data? SIM yang dipilih dapat dikenakan biaya internet karena akan digunakan untuk menyiapkan perangkat Anda.</string>
   <string name="date_time_summary">Atur zona waktu dan sesuaikan tanggal dan waktu jika diperlukan</string>
   <string name="backup_data_summary"><b>Membuat cadangan</b> data aplikasi, password Wi-Fi, dan setelan lainnya ke server Google</string>
   <string name="other_services_summary">Layanan ini menempatkan Google bekerja untuk Anda, dan Anda dapat mengubah mereka atau menonaktifkan setiap saat. Data akan digunakan sesuai dengan Google <xliff:g id="name" example="Privacy Policy">%s </xliff:g>.</string>
